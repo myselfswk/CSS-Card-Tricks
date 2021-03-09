@@ -1,5 +1,5 @@
 # CSS-Card-Tricks
-Create CSS Card using HTML and CSS
+Create CSS Card using HTML and CSS (React Version Coming Soon)
 
 ## CSS-Card-Tricks URL
 https://myselfswk.github.io/CSS-Card-Tricks/
